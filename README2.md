@@ -20,6 +20,9 @@ bla bla bla
 
 ## How to contribute
 
+Pleae fork this repository and then issue Pull
+request for review
+
 ## Copyright
 
 Simple copytight 2019
