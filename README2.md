@@ -19,3 +19,7 @@ This is a simple web project
 bla bla bla
 
 ## How to contribute
+
+## Copyright
+
+Simple copytight 2019
