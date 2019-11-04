@@ -10,6 +10,12 @@ the Git and how to use
 
 ## Purpose
 
+efmfmselfslemdfmsmof
+sefoemfomsiefniefmsefmmsemf
+
 ## Deployment
+
+This is a simple web project
+bla bla bla
 
 ## How to contribute
