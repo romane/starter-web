@@ -6,3 +6,7 @@ then more changes from my features too
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## Copiryght
+
+All rights reserved
